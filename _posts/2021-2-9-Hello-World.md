@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: 测试｜Hello, world.
 categories: [随笔]
 ---
