@@ -3,30 +3,18 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> Hello 陌生人，欢迎访问翎岫的博客
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量
+很高兴遇见你，十四亿分之一，翎岫的博客于庚子鼠年末创立，该博客托管于 GitHub Page(国外)和 Gitee Page(国内)，主要分享本人的一些所见所闻所感所想，比如随笔、书摘、极客、摄影等内容。
 
-主题是自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
+## 关于作者
 
-## 相关技能
+我是翎岫，一名高中生，很高兴遇见你。
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
-
-- 熟悉 Java，NodeJs,Go 等后端语言
-
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
-
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
-
-- Linux 的简单使用，各种服务的搭建
-
-- 能够使用 Git/SVN 对代码版本进行控制
+翎岫之名，可理解为"灵秀"，但又有些不同。但从字来解释：翎(líng)，有鸟羽之意；岫(xìu)，有峰峦之意，见周邦彦的[《玉楼春》](https://so.gushiwen.org/shiwenv_2a984170f0e0.aspx)："烟中列岫青无数，雁背夕阳红欲暮。"
 
 ## 联系我
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1772314831
+- GitHub: [https://github.com/PengyuJiang](https://github.com/PengyuJiang)
 
-- Email&nbsp;: [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
-
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
+- Gitee: [https://gitee.com/jiang-pengyu](https://gitee.com/jiang-pengyu)
