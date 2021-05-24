@@ -1,5 +1,15 @@
 # 介绍
 
+很高兴认识你，十四亿分之一，欢迎您访问翎岫的博客，在这个页面您可以查看网站的源代码，如果您想查看代码只需点击**View Code** 即可。翎岫的博客于庚子鼠年末创立，主要分享本人的一些所见所闻所感所想，比如随笔、书摘、极客、摄影等内容。
+  
+如何访问本站呢？只需要在地址栏中输入以下两网址之一即可，两者并无本质区别，但我推荐您访问国内地址，速度更快更稳定，并且国际地址有时会在国内无法访问，二者同步更新，欢迎随时来访。
+
+国内地址：[https://jiang-pengyu.gitee.io](https://jiang-pengyu.gitee.io)
+
+国际地址：[https://pengyujiang.github.io](https://pengyujiang.github.io)
+
+*以下为TMaize编写的READEME，特此转载，备忘！*
+
 [![Language](https://img.shields.io/badge/Jekyll-Theme-blue)](https://github.com/TMaize/tmaize-blog)
 [![license](https://img.shields.io/github/license/TMaize/tmaize-blog)](https://github.com/TMaize/tmaize-blog)
 [![GitHub stars](https://img.shields.io/github/stars/TMaize/tmaize-blog?style=social)](https://github.com/TMaize/tmaize-blog)
