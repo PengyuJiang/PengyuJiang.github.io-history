@@ -17,9 +17,9 @@ title: 关于我
 
 如何访问本站呢？只需要在地址栏中输入以下两网址之一即可，两者并无本质区别，但我推荐您访问国内地址，速度更快更稳定，并且国际地址有时会在国内无法访问，二者同步更新，欢迎随时来访。
 
-国内地址：https://jiang-pengyu.gitee.io
+国内地址：[https://jiang-pengyu.gitee.io](https://jiang-pengyu.gitee.io)
 
-国际地址：https://pengyujiang.github.io
+国际地址：[https://pengyujiang.github.io](https://jiang-pengyu.gitee.io)
 
 网站支持夜间模式哦，点击我的头像即可切换日间/夜间模式。
 
