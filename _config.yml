@@ -26,12 +26,10 @@ tucaoUrl: https:/www.jiang-pengyu.gitee.io
 menu:
   - title: 首页
     url: /
-  - title: 归类
+  - title: 标签
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
-  - title: 友链
-    url: /pages/links.html
   - title: 关于
     url: /pages/about.html
 
