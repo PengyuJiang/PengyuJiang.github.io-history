@@ -19,7 +19,7 @@ title: 关于我
 
 国内地址：[https://jiang-pengyu.gitee.io](https://jiang-pengyu.gitee.io)（目前无法访问，预计8月恢复）
 
-国际地址：[https://pengyujiang.github.io](https://jiang-pengyu.gitee.io)
+国际地址：[https://pengyujiang.github.io](https://pengyujiang.github.io)
 
 网站支持夜间模式哦，点击我的头像即可切换日间/夜间模式。
 
